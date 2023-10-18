@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Besuk, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
 
-- 🔭 I’m currently working on **SMK Nurul Jadid - PP Nurul Jadid**
+- 🔭 I’m currently working on **PP Nurul Jadid**
 
 - 🌱 I’m currently learning **React Native**
 

@@ -1,4 +1,4 @@
-<img src="https://wallpapercg.com/media/ts_2x/8899.webp" style="width: 1400px; height: 480px;">
+<img src="https://wallpapercg.com/media/ts_2x/8899.webp" style="width: 1400px; height: 450px;">
 <h1 align="center">Hi 👋, I'm M. Ja'far Ilham R</h1>
 <h3 align="center">A passionate web developer from Besuk, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">

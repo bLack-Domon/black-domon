@@ -32,7 +32,7 @@
 
 ## Languages and Tools
 <p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit,vue,react,prostgre"></a></p>
+<p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit,vue,react,postgresql"></a></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bLack-Domon&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="bLack-Domon"/></p>
 

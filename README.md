@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/black-domon">Moh. Ja'far Ilham R</a></h1>
-<h3 align="center">A passionate web developer from Besuk, Probolinggo, Indonesia</h3>
+<h3 align="center">A Passionate Web Developer from Besuk, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**

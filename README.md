@@ -38,8 +38,10 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=black-domon&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bLack-Domon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![github top lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bLack-Domon&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
 </p>
+
 
 ## Activity On GitHub
 <p align="center">

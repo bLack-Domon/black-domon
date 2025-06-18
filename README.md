@@ -44,7 +44,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bLack-Domon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bLack-Domon&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=black-domon&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
     </td>
   </tr>
 </table>

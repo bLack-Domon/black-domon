@@ -56,6 +56,6 @@
 ## Activity On GitHub
 <p align="center">
   <a href="https://github.com/black-domon">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=black-domon&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
-</a> 
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=black-domon&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
+  </a> 
 </p>
